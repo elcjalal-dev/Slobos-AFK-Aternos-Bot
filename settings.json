@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "ELC AFK BOT",
   "bot-account": {
-    "username": "I-Am-Def-A-Human",
+    "username": "elcispro",
     "password": "khikhimuahahhahah",
     "type": "offline"
   },
   "server": {
-    "ip": "JustBuildDude.aternos.me",
-    "port": 41396,
+    "ip": "elcrectown.aternos.me",
+    "port": 17318,
     "version": "1.21.11",
     "try-creative": false
   },
